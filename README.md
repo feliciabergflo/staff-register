@@ -1,4 +1,4 @@
-# Staff Register in C#
+# Staff Register in C# and .NET 7
 This project was developed as an assignment for the course "Programming in C#, III (DA208E)" at Malmö University. The primary focus of the assignment was to explore the usage of lambda expressions and anonymous delegates in a C# application.
 
 ## Overview
