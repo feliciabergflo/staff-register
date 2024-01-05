@@ -9,3 +9,6 @@ The "staff-register" project is a register of staff members and their competence
 - Conducting an advanced search on any input to retrieve relevant information.
 
 The project is implemented using Windows Forms, providing a user-friendly interface for managing staff and their competences.
+
+![image](https://github.com/feliciabergflo/staff-register/assets/81237992/4dfc0f01-3221-4491-bd79-3f4668a1b577)
+*Screenshot of the GUI*
