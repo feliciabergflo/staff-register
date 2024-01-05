@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "John Doe",
+    "Title": "Executive",
+    "Competences": [
+      {"Id": 101, "StaffId": 1, "Name": "Project Management", "Level": "Advanced"},
+      {"Id": 102, "StaffId": 1, "Name": "Communication Skills", "Level": "Intermediate"},
+      {"Id": 103, "StaffId": 1, "Name": "Leadership", "Level": "Intermediate"},
+      {"Id": 104, "StaffId": 1, "Name": "Problem Solving", "Level": "Beginner"},
+      {"Id": 105, "StaffId": 1, "Name": "Team Building", "Level": "Advanced"}
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Jane Smith",
+    "Title": "Manager",
+    "Competences": [
+      {"Id": 201, "StaffId": 2, "Name": "Software Development", "Level": "Advanced"},
+      {"Id": 202, "StaffId": 2, "Name": "Database Design", "Level": "Intermediate"},
+      {"Id": 203, "StaffId": 2, "Name": "Testing", "Level": "Intermediate"},
+      {"Id": 204, "StaffId": 2, "Name": "Problem Solving", "Level": "Advanced"},
+      {"Id": 205, "StaffId": 2, "Name": "Agile Methodologies", "Level": "Beginner"}
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Bob Johnson",
+    "Title": "Staff",
+    "Competences": [
+      {"Id": 301, "StaffId": 3, "Name": "Customer Service", "Level": "Beginner"},
+      {"Id": 302, "StaffId": 3, "Name": "Time Management", "Level": "Intermediate"},
+      {"Id": 303, "StaffId": 3, "Name": "Communication Skills", "Level": "Intermediate"},
+      {"Id": 304, "StaffId": 3, "Name": "Problem Solving", "Level": "Advanced"},
+      {"Id": 305, "StaffId": 3, "Name": "Team Collaboration", "Level": "Advanced"}
+    ]
+  }
+]
